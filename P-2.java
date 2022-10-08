@@ -20,6 +20,5 @@ public class Pr2 {
         String str = "GeeksforGeeks A computer science portal for geeks ";
         String word = "portal";
         System.out.println(countOccurrences(str, word));
-        System.out.println("Prepared by Heppil_21CE056");
     }
 }
